@@ -1,2 +1,2 @@
 # hello-world
-Trying Github
+Trying Github with the usual hello-world sample.
